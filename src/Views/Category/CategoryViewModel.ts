@@ -1,4 +1,4 @@
-﻿namespace JustinCredible.SampleApp.ViewModels {
+﻿namespace PBDesk.RoKenApp.ViewModels {
 
     export class CategoryViewModel {
         public categoryNumber: number;

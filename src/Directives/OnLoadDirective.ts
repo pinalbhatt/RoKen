@@ -1,4 +1,4 @@
-namespace JustinCredible.SampleApp.Directives {
+namespace PBDesk.RoKenApp.Directives {
 
     /**
      * A directive for handling an element's onload event (eg an image tag).

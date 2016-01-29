@@ -1,4 +1,4 @@
-namespace JustinCredible.SampleApp.Services {
+namespace PBDesk.RoKenApp.Services {
 
     /**
      * Provides access to Cordova plugins.

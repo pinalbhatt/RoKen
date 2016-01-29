@@ -1,5 +1,5 @@
 
-namespace JustinCredible.SampleApp {
+namespace PBDesk.RoKenApp {
 
     /**
      * Used to define all of the client-side routes for the application.

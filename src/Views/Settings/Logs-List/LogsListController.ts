@@ -1,4 +1,4 @@
-﻿namespace JustinCredible.SampleApp.Controllers {
+﻿namespace PBDesk.RoKenApp.Controllers {
 
     export class LogsListController extends BaseController<ViewModels.LogsListViewModel> {
 

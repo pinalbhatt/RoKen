@@ -3,7 +3,7 @@
  * that are used on the client-side (eg as parameters or responses to/from
  * AJAX calls).
  */
-declare namespace JustinCredible.SampleApp.DataTypes {
+declare namespace PBDesk.RoKenApp.DataTypes {
 
     interface TokenResponse {
         expires: number;

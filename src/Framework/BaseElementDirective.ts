@@ -1,4 +1,4 @@
-﻿namespace JustinCredible.SampleApp.Directives {
+﻿namespace PBDesk.RoKenApp.Directives {
 
     /**
      * Describes what our element directive objects look like.

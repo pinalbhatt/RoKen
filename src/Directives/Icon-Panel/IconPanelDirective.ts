@@ -1,4 +1,4 @@
-﻿namespace JustinCredible.SampleApp.Directives {
+﻿namespace PBDesk.RoKenApp.Directives {
 
     //#region TypeScript Declarations
 

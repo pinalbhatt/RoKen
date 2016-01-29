@@ -1,4 +1,4 @@
-﻿namespace JustinCredible.SampleApp.ViewModels {
+﻿namespace PBDesk.RoKenApp.ViewModels {
 
     export class RootViewModel {
         public categories: Models.Category[];

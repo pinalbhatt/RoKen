@@ -2,7 +2,7 @@
 /**
  * A common location for application-wide constant values.
  */
-namespace JustinCredible.SampleApp.Constants {
+namespace PBDesk.RoKenApp.Constants {
 
     /**
      * Value for rejection of a promise when opening a dialog using the showDialog
@@ -22,7 +22,7 @@ namespace JustinCredible.SampleApp.Constants {
 /**
  * A collection of titles for buttons commonly used with dialogs.
  */
-namespace JustinCredible.SampleApp.Constants.Buttons {
+namespace PBDesk.RoKenApp.Constants.Buttons {
     export const Yes = "Yes";
     export const No = "No";
     export const OK = "OK";
@@ -32,7 +32,7 @@ namespace JustinCredible.SampleApp.Constants.Buttons {
 /**
  * A collection of names of events used within the application.
  */
-namespace JustinCredible.SampleApp.Constants.Events {
+namespace PBDesk.RoKenApp.Constants.Events {
     export const HTTP_UNAUTHORIZED = "http.unauthorized";
     export const HTTP_FORBIDDEN = "http.forbidden";
     export const HTTP_NOT_FOUND = "http.notFound";

@@ -1,4 +1,4 @@
-﻿namespace JustinCredible.SampleApp.Models {
+﻿namespace PBDesk.RoKenApp.Models {
 
     /**
      * Used to specify options for a dialog.

@@ -1,4 +1,4 @@
-﻿namespace JustinCredible.SampleApp.Services {
+﻿namespace PBDesk.RoKenApp.Services {
 
     /**
      * Provides a common set of helper/utility methods for performing file I/O.

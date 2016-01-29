@@ -1,4 +1,4 @@
-namespace JustinCredible.SampleApp.Services {
+namespace PBDesk.RoKenApp.Services {
 
     /**
      * Provides a way to easily get/set application configuration.

@@ -1,4 +1,4 @@
-﻿namespace JustinCredible.SampleApp.Services {
+﻿namespace PBDesk.RoKenApp.Services {
 
     /**
      * This is a custom interceptor for Angular's $httpProvider.

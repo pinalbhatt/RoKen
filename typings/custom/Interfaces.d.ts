@@ -2,7 +2,7 @@
 /**
  * This module is used to house custom interfaces that aren't data types.
  */
-declare namespace JustinCredible.SampleApp.Interfaces {
+declare namespace PBDesk.RoKenApp.Interfaces {
 
     /**
      * An extension of the Angular RequestConfig interface which allows us to pass along a

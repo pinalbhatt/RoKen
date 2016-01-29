@@ -1,4 +1,4 @@
-﻿namespace JustinCredible.SampleApp.Controllers {
+﻿namespace PBDesk.RoKenApp.Controllers {
 
     /**
      * This is the base controller that all other controllers should utilize.

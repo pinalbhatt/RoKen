@@ -1,4 +1,4 @@
-﻿namespace JustinCredible.SampleApp.ViewModels {
+﻿namespace PBDesk.RoKenApp.ViewModels {
 
     /**
      * A ViewModel that has no properties. Useful for controllers that

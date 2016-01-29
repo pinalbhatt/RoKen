@@ -1,5 +1,5 @@
 
-namespace JustinCredible.SampleApp {
+namespace PBDesk.RoKenApp {
 
     export class Application {
 

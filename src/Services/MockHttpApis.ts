@@ -1,4 +1,4 @@
-namespace JustinCredible.SampleApp.Services {
+namespace PBDesk.RoKenApp.Services {
 
     /**
      * Provides mock responses for HTTP requests.

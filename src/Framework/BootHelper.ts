@@ -1,7 +1,7 @@
 /**
  * This is a helper for the second level boot loader.
  */
-namespace JustinCredible.SampleApp.BootHelper {
+namespace PBDesk.RoKenApp.BootHelper {
 
     //#region Registration Helpers
 

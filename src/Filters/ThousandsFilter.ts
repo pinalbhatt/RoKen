@@ -1,4 +1,4 @@
-﻿namespace JustinCredible.SampleApp.Filters {
+﻿namespace PBDesk.RoKenApp.Filters {
 
     /**
      * Formats numbers greater than one thousand to include the K suffix.

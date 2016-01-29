@@ -1,4 +1,4 @@
-﻿namespace JustinCredible.SampleApp.Controllers {
+﻿namespace PBDesk.RoKenApp.Controllers {
 
     export class CloudSyncController extends BaseController<ViewModels.CloudSyncViewModel> {
 

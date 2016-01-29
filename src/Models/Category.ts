@@ -1,4 +1,4 @@
-﻿namespace JustinCredible.SampleApp.Models {
+﻿namespace PBDesk.RoKenApp.Models {
 
     export class Category {
         public name: string;

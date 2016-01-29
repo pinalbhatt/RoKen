@@ -1,4 +1,4 @@
-﻿namespace JustinCredible.SampleApp.Services {
+﻿namespace PBDesk.RoKenApp.Services {
 
     /**
      * Provides a common set of helper methods for working with the UI.
