@@ -1,0 +1,2 @@
+namespace PBDesk.RoKenApp.KenKen {
+}
