@@ -90,6 +90,6 @@ declare namespace PBDesk.RoKenApp.Interfaces {
             copyrightUrl: string;
 
             githubUrl: string;
-        }
+        };
     }
 }
