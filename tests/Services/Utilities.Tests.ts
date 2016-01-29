@@ -5,10 +5,10 @@
 describe("Utilities.format()", function() {
 
     // This will hold a reference to an instance of the utilities class.
-    var Utilities: JustinCredible.SampleApp.Services.Utilities;
+    var Utilities: PBDesk.RoKenApp.Services.Utilities;
 
     // Before each test, ensure that the main application module is available.
-    beforeEach(module("JustinCredible.SampleApp.Application"));
+    beforeEach(module("PBDesk.RoKenApp.Application"));
 
     // Before each test, grab a reference to the Utilities class.
     beforeEach(inject(function (_Utilities_) {

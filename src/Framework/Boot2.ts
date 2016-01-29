@@ -32,7 +32,7 @@ namespace PBDesk.RoKenApp.Boot2 {
 
         // Define the top level Angular module for the application.
         // Here we also specify the Angular modules this module depends upon.
-        ngModule = angular.module("JustinCredible.SampleApp.Application", ["ui.router", "ionic", "templates", "ngMockE2E"]);
+        ngModule = angular.module("PBDesk.RoKenApp.Application", ["ui.router", "ionic", "templates", "ngMockE2E"]);
 
         // Define our constants.
         ngModule.constant("isCordova", typeof(cordova) !== "undefined");

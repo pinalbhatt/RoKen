@@ -2,7 +2,7 @@
     "manifest_version": 2,
 
     "name": "Sample App",
-    "description": "SampleApp: A starter application using Ionic and TypeScript.",
+    "description": "RoKenApp: A starter application using Ionic and TypeScript.",
     "version": "1.0",
 
     "browser_action": {

@@ -5,10 +5,10 @@
 describe("FileUtilities.getDefaultRootPath()", function() {
 
     // This will hold a reference to an instance of the FileUtilities class.
-    var FileUtilities: JustinCredible.SampleApp.Services.FileUtilities;
+    var FileUtilities: PBDesk.RoKenApp.Services.FileUtilities;
 
     // Before each test, ensure that the main application module is available.
-    beforeEach(module("JustinCredible.SampleApp.Application"));
+    beforeEach(module("PBDesk.RoKenApp.Application"));
 
     // Before each test, grab a reference to the FileUtilities class.
     beforeEach(inject(function (_FileUtilities_) {

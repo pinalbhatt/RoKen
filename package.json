@@ -1,7 +1,7 @@
 {
-  "name": "SampleApp",
+  "name": "RoKenApp",
   "version": "1.0.0",
-  "description": "SampleApp: A starter application using Ionic and TypeScript.",
+  "description": "RoKen: A starter application using Ionic and TypeScript.",
   "author": "Justin Unterreiner",
   "license": "MIT",
   "homepage": "http://www.justin-credible.net/Projects/Ionic-TypeScript-MDHA-Starter",

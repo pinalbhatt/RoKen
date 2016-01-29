@@ -1,5 +1,5 @@
 {
-  "name": "SampleApp",
+  "name": "RoKenApp",
   "private": true,
   "dependencies": {
     "ionic": "1.2.1",

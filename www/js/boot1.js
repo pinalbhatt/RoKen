@@ -1,5 +1,5 @@
 ﻿
-/*globals JustinCredible, chrome*/
+/*globals PBDesk, chrome*/
 
 // Here any special logic can be executed before boostrapping the application.
 
@@ -14,4 +14,4 @@ if (typeof (chrome) !== "undefined" && typeof (chrome.runtime) !== "undefined" &
 }
 
 // Invoke the second level boot loader.
-JustinCredible.SampleApp.Boot2.boot();
+PBDesk.RoKenApp.Boot2.boot();
